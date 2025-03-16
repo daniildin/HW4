@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/9409b4d3-e52d-42f5-b1e6-158f961c0c3d)
+
+
 # Card Deck Program
 
 This is a simple card deck simulation program written in C#. It includes classes to represent a deck of cards, as well as individual cards with their rank and suit. The program supports shuffling, cutting, and drawing cards from the deck.
@@ -32,4 +36,4 @@ Deck cut at index 26
 Top card is: Ace of Spades
 Next card is: Two of Spades
 Deck now contains 50 cards.
-![image](https://github.com/user-attachments/assets/9409b4d3-e52d-42f5-b1e6-158f961c0c3d)
+
